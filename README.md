@@ -11,7 +11,7 @@ An animated and dynamic portfolio website, showcasing the coding and design work
 - Form validation for contact form
 - Skills section with icons
 - Projects showcase
-- Social media links
+- Project and media links
 
 ## Technologies Used
 
