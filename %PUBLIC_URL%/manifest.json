@@ -1,0 +1,9 @@
+{
+    "name": "Brock Adams Portfolio",
+    "short_name": "BrockAdams",
+    "start_url": "https://br907888.github.io/final-portfolio-project/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "A portfolio website for Brock Adams"
+}
