@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/final-portfolio-project/static/js/main.d859622a.js",
+    "main.js": "/final-portfolio-project/static/js/main.e82f02a5.js",
     "static/media/quizsite.jpg": "/final-portfolio-project/static/media/quizsite.c1d7aef2ddebb908cc2d.jpg",
     "static/media/keys.jpg": "/final-portfolio-project/static/media/keys.06d0ae6ca897cb3b65a3.jpg",
     "static/media/comettales.jpg": "/final-portfolio-project/static/media/comettales.84badf29b86c01c2d38d.jpg",
     "static/media/takeoutapp.jpg": "/final-portfolio-project/static/media/takeoutapp.3a9b4cb61e41e84052bc.jpg",
     "static/media/profile.jpg": "/final-portfolio-project/static/media/profile.fd5de06b558723667651.jpg",
     "index.html": "/final-portfolio-project/index.html",
-    "main.d859622a.js.map": "/final-portfolio-project/static/js/main.d859622a.js.map"
+    "main.e82f02a5.js.map": "/final-portfolio-project/static/js/main.e82f02a5.js.map"
   },
   "entrypoints": [
-    "static/js/main.d859622a.js"
+    "static/js/main.e82f02a5.js"
   ]
 }
