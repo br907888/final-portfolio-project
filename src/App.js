@@ -78,7 +78,6 @@ function App() {
             <NavItem to="/">Home</NavItem>
             <NavItem to="/about">About</NavItem>
             <NavItem to="/projects">Projects</NavItem>
-            <NavItem to="/contact">Contact</NavItem>
           </NavBar>
         </Header>
         <MainContent>
